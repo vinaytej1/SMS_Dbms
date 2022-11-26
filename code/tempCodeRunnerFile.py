@@ -1,0 +1,1 @@
+ # get the products info with that id and fill it in the labels above
